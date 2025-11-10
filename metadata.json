@@ -1,0 +1,5 @@
+{
+  "name": "Contact Extractor from Image",
+  "description": "An intelligent app that uses Gemini to extract contact information (names, emails, phones, etc.) from an uploaded image and organizes it into a structured, downloadable table.",
+  "requestFramePermissions": []
+}
